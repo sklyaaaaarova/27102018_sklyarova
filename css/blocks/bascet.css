@@ -1,0 +1,13 @@
+.basket {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    margin-left: auto;
+
+}
+
+.basket__pic {
+    background: url(/images/icons/bascet.png) center center / contain no-repeat;
+    width: 20px; 
+    height: 20px;
+}
